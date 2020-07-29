@@ -1,2 +1,2 @@
 # dotfile
-configs
+My dotfiles
